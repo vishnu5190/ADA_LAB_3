@@ -1,0 +1,35 @@
+ 1:For manual entry of N value and array elements
+ 2:To display time taken for sorting number of elements N in the range 500 to 14500
+ 3:To exit
+ Enter your choice:1
+
+Enter the number of elements: 5
+
+Enter array elements: 789 687 509 500 610
+
+Sorted array is: 500    509     610     687     789
+ Time taken to sort 5 numbers is 0.000000 Secs
+ 1:For manual entry of N value and array elements
+ 2:To display time taken for sorting number of elements N in the range 500 to 14500
+ 3:To exit
+ Enter your choice:2
+
+ Time taken to sort 500 numbers is 0.002000 Secs
+ Time taken to sort 1500 numbers is 0.004000 Secs
+ Time taken to sort 2500 numbers is 0.010000 Secs
+ Time taken to sort 3500 numbers is 0.016000 Secs
+ Time taken to sort 4500 numbers is 0.026000 Secs
+ Time taken to sort 5500 numbers is 0.038000 Secs
+ Time taken to sort 6500 numbers is 0.054000 Secs
+ Time taken to sort 7500 numbers is 0.070000 Secs
+ Time taken to sort 8500 numbers is 0.090000 Secs
+ Time taken to sort 9500 numbers is 0.115000 Secs
+ Time taken to sort 10500 numbers is 0.139000 Secs
+ Time taken to sort 11500 numbers is 0.165000 Secs
+ Time taken to sort 12500 numbers is 0.196000 Secs
+ Time taken to sort 13500 numbers is 0.234000 Secs
+ Time taken to sort 14500 numbers is 0.263000 Secs
+ 1:For manual entry of N value and array elements
+ 2:To display time taken for sorting number of elements N in the range 500 to 14500
+ 3:To exit
+ Enter your choice:
